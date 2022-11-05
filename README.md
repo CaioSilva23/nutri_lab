@@ -1,5 +1,14 @@
 # PROJETO NUTRI_LAB
-Um projeto de uma plataforma onde nutricionistas gerenciam seus pacientes, feito com Django e Python.
+Um projeto de uma plataforma onde nutricionistas gerenciam seus pacientes..
+
+### TECNOLOGIAS  UTILIZADAS NO PROJETO
+
+- **Python**
+- **Django**
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ### TODOs
 Abaixo uma lista do que adicionei ou ainda pretendo adicionar.
