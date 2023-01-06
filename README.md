@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <img alt="Login" src="public/login.png" width=250>
-  <img alt="home" src="public/cadastro.png" width=250>
-  <img alt="execucao" src="public/dados.png" width=250>
-<img alt="execucao" src="public/plano.png" width=250>
-  <img alt="pregoes" src="public/home.png" width=250>
+  <img alt="Login" src="public/login.PNG" width=250>
+  <img alt="home" src="public/cadastro.PNG" width=250>
+  <img alt="execucao" src="public/dados.PNG" width=250>
+<img alt="execucao" src="public/plano.PNG" width=250>
+  <img alt="pregoes" src="public/home.PNG" width=250>
 </p>
 
 ## 🎯 Sobre
