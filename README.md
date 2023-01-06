@@ -40,14 +40,10 @@
 
 <p align="center">
   <img alt="Login" src="public/login.png" width=250>
-  <img alt="home" src="public/home.png" width=250>
-  <img alt="execucao" src="public/execucao1.png" width=250>
-<img alt="execucao" src="public/execucao2.png" width=250>
-  <img alt="pregoes" src="public/pregoes.png" width=250>
-  <img alt="empenhos" src="public/empenhos.png" width=250>
-  <img alt="capacidade" src="public/capacidade.png" width=250>
-  <img alt="nota_credito" src="public/nota_credito.png" width=250>
-  <img alt="om" src="public/om.png" width=250>
+  <img alt="home" src="public/cadastro.png" width=250>
+  <img alt="execucao" src="public/dados.png" width=250>
+<img alt="execucao" src="public/plano.png" width=250>
+  <img alt="pregoes" src="public/home.png" width=250>
 </p>
 
 ## 🎯 Sobre
