@@ -82,7 +82,7 @@ Antes de começar 🏁, você precisa ter o [Python](https://www.python.org/down
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/CaioSilva23/divisao-externa.git
+$ git clone https://github.com/CaioSilva23/nutri_lab.git
 
 # Entre na pasta
 $ cd nutri_lab
