@@ -12,11 +12,18 @@
     <br>
     <div class="row">
         <div class="col-md-3">
+            {% if paciente.sexo == 'M' %}
+            <img src="{% static 'plataforma/img/perfil2.png' %}">
+            {% else %}
             <img src="{% static 'plataforma/img/perfil1.png' %}">
+            {% endif %}
+           
                 </div>
             <div class="col-md-3 dados descricao">
                 <h4>{{paciente.nome}}</h4>
                 <h6>{{paciente.idade}} Anos</h6>
+               
+
             </div>
         </div>
     <hr>
